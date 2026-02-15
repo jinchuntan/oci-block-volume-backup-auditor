@@ -110,6 +110,13 @@ oci os object head `
   --name "<prefix>/<report-file-name>"
 ```
 
+## Output
+<img width="940" height="122" alt="image" src="https://github.com/user-attachments/assets/ccbbf910-0944-4121-8337-fe5847a6cb69" />
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/02a1c095-d022-442b-86ed-09ffd9798df8" />
+
+
+
+
 ## Troubleshooting
 
 - `401/403` in one compartment: tool continues and records skipped compartments.
@@ -120,3 +127,4 @@ oci os object head `
 
 - Read-only listing across Identity, Compute, and Block Volume APIs
 - Only write action: Object Storage `put_object`
+
